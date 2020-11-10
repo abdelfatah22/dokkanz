@@ -1,7 +1,6 @@
 # dokkanz
 
 SetUp the project:
-#----------------------------------------------------------
 
 Run this commands:
 
